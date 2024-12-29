@@ -29,18 +29,22 @@ Simple Selenium test suite on basic input form validation. The test suite captur
  //negative input tests
 
 1.//Test 001a -> invalid input form data test - no first name
+
 2.//Test 001b -> invalid input form data test - no last name
+
 3.//Test 001c -> invalid input form data test - no user age
 
  //too short singular input tests
 
- 1.//Test 001d -> invalid input form data test - too short first name
- 2.//Test 001e -> invalid input form data test - too short last name
+1.//Test 001d -> invalid input form data test - too short first name
+
+2.//Test 001e -> invalid input form data test - too short last name
 
   //too long singular inputs
 
- 1. //Test 001f -> invalid input form data test - too long first name
- 2. //Test 001g -> invalid input form data test - too long last name
+1. //Test 001f -> invalid input form data test - too long first name
+   
+3. //Test 001g -> invalid input form data test - too long last name
 
   //invalid singular input
 
